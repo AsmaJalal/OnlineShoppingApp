@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "895078239879",
+    "firebase_url": "https://testingapps-7c1cd-default-rtdb.firebaseio.com",
+    "project_id": "testingapps-7c1cd",
+    "storage_bucket": "testingapps-7c1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895078239879:android:11660454d7991c6948f222",
+        "android_client_info": {
+          "package_name": "com.example.onlinemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqkRllrArzJJt6FKkLPoYKBwpVm-26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895078239879:android:d898bbc16ba0191548f222",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqkRllrArzJJt6FKkLPoYKBwpVm-26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895078239879:android:cd9af2a92b5f2b4f48f222",
+        "android_client_info": {
+          "package_name": "com.example.schoolspickanddropservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqkRllrArzJJt6FKkLPoYKBwpVm-26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895078239879:android:215c78d6dadbe7eb48f222",
+        "android_client_info": {
+          "package_name": "com.myfoodpoint_react_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqkRllrArzJJt6FKkLPoYKBwpVm-26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895078239879:android:9c4229589a7b804948f222",
+        "android_client_info": {
+          "package_name": "com.reactnative_graphql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895078239879-ce8usmiutfdhi0el6nqob303pdqen212.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnative_graphql",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqkRllrArzJJt6FKkLPoYKBwpVm-26Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895078239879-panmp7k082lnac7itqqqh8s9kf7ghekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

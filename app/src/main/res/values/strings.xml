@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+
+    <!-- Onboarding Screen-->
+    <string name="skip">Skip</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="onboarding_1_title">Shop Easily</string>
+    <string name="onboarding_1_desc">You can find all the products you are looking for and buy them easily.</string>
+    <string name="onboarding_2_title">Fast Shipping</string>
+    <string name="onboarding_2_desc">The products are delivered to you quickly.</string>
+    <string name="onboarding_3_title">Simply Pay</string>
+    <string name="onboarding_3_desc">Pay by credit card or in installments.</string>
+    <string name="onboarding_4_title">Let\'s Start Shopping</string>
+    <string name="onboarding_4_desc">Find the product, make the payment and receive it by courier.</string>
+
+    <!-- Auth Screen-->
+    <string name="welcome_to_shopping_app">Welcome to Shopping App</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password Again</string>
+    <string name="username">Username</string>
+    <string name="close">Close</string>
+    <string name="fields_cannot_empty">Fields cannot be empty!</string>
+    <string name="enter_valid_email">Please enter a valid email address!</string>
+    <string name="passwords_dont_match">Passwords don\'t match!</string>
+    <string name="password_greater_than_5">Password must be greater than 5 characters!</string>
+
+    <!-- Main Menu Screen-->
+    <string name="products">Products</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="no_data">No data</string>
+    <string name="currency_unit">%.2f$</string>
+
+    <!-- Product Details -->
+    <string name="rating_count">%s Rating</string>
+    <string name="add_basket">Add Basket (%d)</string>
+    <string name="increase_char">+</string>
+    <string name="reduce_char">-</string>
+    <string name="product_added_basket_message">Product added to basket.</string>
+
+    <!-- Profile -->
+    <string name="sign_out">SIGN OUT</string>
+    <string name="sign_out_message">Are you sure want to sign out of your account?</string>
+    <string name="continue_">CONTINUE</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search a product…</string>
+
+    <!-- Basket -->
+    <string name="my_basket">MY BASKET</string>
+    <string name="purchase">PURCHASE (%.2f$)</string>
+    <string name="product_reduce_message">Product reduced</string>
+    <string name="product_increased_message">Product increased</string>
+    <string name="product_deleted_message">Product deleted</string>
+    <string name="purchase_message">Are you sure the payment will be received and your shopping will be completed.</string>
+    <string name="purchase_success_message">Products purchased successfully.</string>
+    <string name="basket_empty_message">Your basket is empty</string>
+    <string name="basket_empty_message_2">Your basket is empty, please add products.</string>
+
+</resources>
